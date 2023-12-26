@@ -2,19 +2,20 @@ Welcome to my Data Science Project Repository! This repository showcases a range
 
 Folder Structure & Contents
 1. Basic Machine Learning Techniques:
+
 Housing Data Regression Analysis:
 Implements linear regression, SVM, KNN, and decision tree models.
 Utilizes various scaling and cross-validation techniques.
 Breast Cancer Classification:
 Based on data from the University of Wisconsin.
 Applies logistic regression, SVM, KNN, and decision tree models.
-2. Advanced Machine Learning Algorithms:
+3. Advanced Machine Learning Algorithms:
 Advanced Regression Algorithms:
 Features models like Random Forest, XGBoost, CatBoost, and LightGBM.
 Compares performances with simpler algorithms from the first folder.
 Advanced Classification Algorithms:
 Similar approach as the regression notebook, using advanced models for the breast cancer dataset.
-3. Neural Networks and Explainability:
+4. Neural Networks and Explainability:
 Neural Network for Regression:
 Demonstrates the application of neural networks in regression problems.
 Neural Network for Classification:
