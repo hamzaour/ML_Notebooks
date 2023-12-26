@@ -22,6 +22,7 @@ Welcome to my Data Science Project Repository! This repository showcases a range
 ### 3. Neural Networks and Explainability
 - **Neural Network for Regression:**
   - Demonstrates the application of neural networks in regression problems.
+  - Includes implementation of explainability techniques.
 - **Neural Network for Classification:**
   - Focuses on classification with neural networks, applied to the breast cancer dataset.
   - Includes implementation of explainability techniques.
@@ -42,5 +43,3 @@ The primary goal of this repository is to provide a comprehensive showcase of my
 ## How to Use
 Feel free to explore the notebooks in each folder. Each notebook contains detailed comments and explanations to guide you through the analysis and model-building process.
 
-## Contact
-For any queries or discussions related to this repository, please feel free to contact me at [Your Contact Information].
