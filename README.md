@@ -4,7 +4,7 @@ Welcome to my Data Science Project Repository! This repository showcases a range
 
 ## Folder Structure & Contents
 
-### 1. Basic Machine Learning Techniques
+### 1. Basic Machine Learning Algorithms
 - **Housing Data Regression Analysis:**
   - Implements linear regression, SVM, KNN, and decision tree models.
   - Utilizes various scaling and cross-validation techniques.
